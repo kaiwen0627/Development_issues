@@ -1,7 +1,8 @@
 module.exports = {
   title: '小小错题本',
   description: '开发遇到的问题',
-  base: '',
+  base: '/wrong_question_static_page/',
+  hostname: '',
   theme: '@vuepress/theme-blog',
   themeConfig: {
     nav: [
